@@ -1,0 +1,12 @@
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\bin\Debug\Configurar Red Lan.exe.config
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\bin\Debug\Configurar Red Lan.exe
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\bin\Debug\Configurar Red Lan.pdb
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\bin\Debug\Configurar Red Lan.xml
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\obj\Debug\Configurar_Red_Lan.Form1.resources
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\obj\Debug\Configurar_Red_Lan.Resources.resources
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\obj\Debug\Configurar Red Lan.vbproj.GenerateResource.cache
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\obj\Debug\Configurar Red Lan.vbproj.CoreCompileInputs.cache
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\obj\Debug\Configurar Red Lan.exe
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\obj\Debug\Configurar Red Lan.xml
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\obj\Debug\Configurar Red Lan.pdb
+C:\Users\johnny\source\repos\Configurar Red Lan\Configurar Red Lan\obj\Debug\Configurar Red Lan.vbprojAssemblyReference.cache
